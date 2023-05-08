@@ -187,6 +187,7 @@ public class AdvancedSlotMachine : MonoBehaviour
         Debug.Log("1: "+_resultDice1);
         Debug.Log("2: "+_resultDice2);
         Debug.Log("3: "+_resultDice3);
+        Debug.Log("TRICKED");
     }
 
     // Pick a random weighted number
